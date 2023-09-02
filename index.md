@@ -1,3 +1,16 @@
+# Mark McConnell's First CS193 Homework
+
+A bulleted list of some of my favorite things about CS193
+- The T/A's
+- The classmates
+- The memes
+- the class
+- loooove that it goes from 6:30 to 7:20, 5:15 after the preceding class
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -24,6 +37,16 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+```markdown
+wenus
+
+top songs by LOLUET
+
+1. ラブ＆デストロイ
+2. 浴槽とネオンテトラ
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
